@@ -1,0 +1,20 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### npm ###
+/node_modules/
+
+## mvn ###
+/target/
+
+### vaadin ###
+/package.json
+/pnpm-lock.yaml
+/pnpmfile.js
+/tsconfig.json
+/webpack.config.js
+/webpack.generated.js
